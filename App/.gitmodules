@@ -1,0 +1,3 @@
+[submodule "mavericks"]
+	path = mavericks
+	url = https://github.com/Gustavo-Mandu/mavericks.git
