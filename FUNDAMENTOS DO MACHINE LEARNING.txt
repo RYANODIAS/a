@@ -1,0 +1,44 @@
+FUNDAMENTOS DO MACHINE LEARNING
+
+
+INTRODUÇÃO
+Ferramentas da linguagem Python
+FUNDAMENTOS DO MACHINE LEARNING 
+Coleta de Dados 
+-Coleta dos Dados fornecidos 
+Treinamento do Modelo 
+-Através dos dados fornecidos 
+Validação do Teste
+-Analisar se o dados é útil ou válido para ser analisado e utilizado
+Implementação
+
+
+Conceitos teóricos 
+
+PANDAS 
+Biblioteca para analise de dados de forma rápida e flexível
+Função
+Estrutura de Dados (Estruturar dados)
+Manipulação de Dados ()
+Análise de Dados()
+Visualização dos Dados ()
+Resumo - pandas tarta dados de em passa podendo estruturados, nalisar e 
+
+NUMPY
+Arrays e Matrizes - criação de manipulação de estrutura de dados
+Operações matemáticas - funções rápidas de calculo de arrays
+Álgebra Linear - ferramentas de operações e matrizes 
+Geração de números rândomicos - aborda esse tipo de funcionalidade;
+
+Resumo - ideal para cálculos numeros de forma eficiente e rápida  
+
+SCIKIT - LEARN
+
+VARIEDADE DE ALGORITIMOS PREDICTIOVOS 
+-CLASSIFICAÇÃO: IDENTIFICA A CATEGORIA QUE UM DADO PERTENCE.
+-REGRESSÃO: VALOR NUMERICO COM BASE EM DADOS
+outros...
+resumo ideal para algoritmos de machine learning 
+
+
+ARTIGO CIENTIFICO 
